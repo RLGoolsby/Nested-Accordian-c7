@@ -1,6 +1,7 @@
-var taDa = document.getElementById("#closed");
-for(var i = 0; i < taDa.length; i++){
-  taDa[i].addEventListener(.click, function){
-    taDa.addclassName("#open");
-  }
-});
+var tada = document.getElementsByClassName("Food");
+for(var i = 0; i < tada.length; i++){
+   tada[i].addEventListener("click", function(){
+    this.nextElementSibling.classList.toggle("visible");
+
+  });
+}

@@ -4,12 +4,71 @@ body{
 }
 
 .container{
-  margin:30px auto;
+  margin:2% 5% 2% 8%;
 }
 
-.food{
+.accordion-panel{
+  display: none;
+}
+
+
+.Food{
+  color:  #569ed2;
+  font-family: "Lato","Arial", sans-serif;
+  font-size: 30px;
+  font-weight:lighter;
+  font-style: oblique;
+  margin-left: 50px;
   font-size: 40px;
 }
+
+
+.fa.fa-long-arrow-right{
+  font-style: normal;
+  padding-right: 10px;
+}
+
+/*.fa-fa-arrow-down{
+  font-size: 10px;
+  color: #569ed2;
+}*/
+
+p{
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  margin-left: 60px;
+  max-width: 600px;
+  color: #569ed2;
+}
+
+.bears{
+  color:  steelblue;
+  font-family: "Lota";
+  font-size: 18px;
+  font-weight: normal;
+  margin-left: 89px;
+}
+
+li{
+  list-style-type: none;
+  margin-top: 8px;
+}
+
+
+
+.fa.fa-arrow-circle-o-right{
+  font-style: normal;
+  padding-right: 10px;
+}
+
+.visible{
+display: block;
+}
+
+
+
+
 
 
 
