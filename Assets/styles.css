@@ -1,0 +1,45 @@
+body{
+  margin: 5% auto;
+  background-color: lightblue;
+}
+
+.container{
+  margin:30px auto;
+}
+
+.food{
+  font-size: 40px;
+}
+
+
+
+/*#closed{*/
+  /*display: none;*/
+
+
+/*#open{
+  display:block;
+}*/
+
+/*.title{
+  list-style-type: none;
+  font-size: 40px;
+}
+
+.paragraph{
+  list-style-type: none;
+}*/
+
+
+
+/*.bullet1{
+  list-style-type: none;
+}
+
+.bullet2{
+  list-style-type: none;
+}
+
+.bullet3{
+  list-style-type: none;
+}*/
