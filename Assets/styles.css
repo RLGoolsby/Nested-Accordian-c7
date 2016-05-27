@@ -12,6 +12,8 @@ body{
 }
 
 
+
+
 .Food{
   color:  #569ed2;
   font-family: "Lato","Arial", sans-serif;
@@ -26,6 +28,29 @@ body{
 .fa.fa-long-arrow-right{
   font-style: normal;
   padding-right: 10px;
+  cursor: pointer;
+}
+
+h1:hover>i{
+  transform: rotateZ(45deg);
+  color: #569ed2;
+}
+
+.hide-right-arrow{/*** JS  class  **/
+  display: none;
+}
+
+
+.hide-down-arrow{
+  display: none;
+}
+
+.show-down-arrow{/**  JS class **/
+  display:inline;
+}
+
+.fa{
+  color: #C9DCDF;
 }
 
 /*.fa-fa-arrow-down{
@@ -42,7 +67,8 @@ p{
   color: #569ed2;
 }
 
-.bears{
+
+.flowers{
   color:  steelblue;
   font-family: "Lota";
   font-size: 18px;
@@ -53,6 +79,7 @@ p{
 li{
   list-style-type: none;
   margin-top: 8px;
+  color: #569ed2;
 }
 
 
@@ -65,6 +92,7 @@ li{
 .visible{
 display: block;
 }
+
 
 
 
