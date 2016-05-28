@@ -7,11 +7,14 @@
 * ul
 * li
 * class
+
 /********** What actually exist ****/
+
 * h1 class
 * i-icons-arrows
 * accordion-panel
 * css-class selectors
+
 /**********************************/
 
 ###How do you interact with them?
@@ -39,10 +42,12 @@
 
 ###What new HTML elements are created?
 /**********Before coding ********************/
+
 * maybe--.innerHTML
 * button id--if the nav list items are installed
 
 /**********After code was created ************/
+
 * i-class-down-arrows
 
 ###What CSS styles are used to produce the effect?
