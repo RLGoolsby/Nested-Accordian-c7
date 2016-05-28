@@ -21,15 +21,15 @@ body{
 
 
 
-.Old-school{
+/*.Old-school{*/
   /*color:  ##47a3da;*/
   /*font-family: "Open+Sans","Arial", sans-serif;*/
   /*font-size: 30px;*/
   /*font-weight:lighter;*/
-  font-style: oblique;
+  /*font-style: oblique;*/
   /*margin-left: 50px;*/
   /*font-size: 40px;*/
-}
+/*}*/
 
 
 .fa.fa-arrow-right{
@@ -43,7 +43,7 @@ body{
   cursor: pointer;
 }
 
-h1{
+.Old-school{
   margin: 0 0 0.3em;
 	padding: 1em 0 0.5em;
   color: #47a3da;

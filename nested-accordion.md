@@ -23,7 +23,7 @@
 * using the (DOM) to addEvenListeners, like click and toggle.
 * creating new classList to pull from css code is run in JS.
 
-###What visual effects are produced by interacting?_
+###What visual effects are produced by interacting?
 
 * arrow icons change color and direction.
 * paragraph displays.
