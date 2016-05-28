@@ -1,4 +1,4 @@
-var tada = document.getElementsByClassName("Food");
+var tada = document.getElementsByClassName("Old-school");
 
 for(var i = 0; i < tada.length; i++){
    tada[i].addEventListener("click", function(){
