@@ -20,3 +20,47 @@ for(var i = 0; i < tada.length; i++){
 //         $arrows.toggle();
 //     });
 // });
+
+
+// var gomez = document.querySelector("Old-school");
+// var edith= document.querySelector("Old-school");
+// var skipper = document.querySelector("Old-school");
+// var spock = document.querySelector("Old-school");
+// var maude = document.querySelector("Old-school");
+
+
+
+
+// var articleOne.style.display = "none";
+// var articleTwo.style.display = "none";
+// var articleThree.style.display = "none";
+// var articleFour.style.display = "none";
+
+
+// gomez.addEventListener("click", function);
+// if( === "") {}
+//   else{}
+//     alert("Hi, " + gomez.value);
+// });
+//
+// edith.addEventListener("click", function);
+// if ( === "") {}
+//   else{
+//     alert ("Hi, " + edith.value);
+//   }
+//
+// skipper.addEventListener("click", function);
+//   if ( === "") {}
+//     else{
+//       alert ("Hi, " + skipper.value);
+//     }
+// spock.addEventListener("click", function);
+//     if ( === "") {}
+//       else{
+//         alert ("Hi, " + spock.value);
+//       }
+// maude.addEventListener("click", function);
+//       if ( === "") {}
+//         else{
+//           alert ("Hi, " + maude.value);
+//         }
