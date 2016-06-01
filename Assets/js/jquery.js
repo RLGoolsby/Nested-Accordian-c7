@@ -12,16 +12,19 @@
 /****  save for later ***/
 // $("#card").flip('toggle');
 /*****************************/
-$(".Old-school").click(function(){
-  $("#1").toggle(".visible");
-  $("#2").toggle(".visible");
-  $("#3").toggle(".visible");
-  $("#4").toggle(".visible");
-  $("#5").toggle(".visible");
-});
+// $(".Old-school").click(function(){
+//   $("#1").toggle();
+//   $("#2").toggle();// $("#TV-guide-2").toggle();
+//   $("#3").toggle();
+//   $("#4").toggle();
+//   $("#5").toggle();
+// });
 
-  $("#1").click(function(){
-    $("i",this).toggleClass("show-down-arrow");
+
+$(".Old-school").click(function(){
+    $(this).next().toggle();
+    $("i", this).toggleClass("hide-right-arrow");// $(this).toggle(".hide-right-arrow");
+    $("i", this).last().toggleClass("show-down-arrow");
   });
 
 
