@@ -2,21 +2,21 @@
 /*****************************/
 /*** THIS IS THE CODE THAT WILL OPEN AND CLOSE ALL PANELS AT ONCE ***/
 
-// $(".Old-school").click(function(){
-//   $("#1").toggle();
-//   $("#3").toggle();
-//   $("#4").toggle();
-//   $("#5").toggle();
-// });
+$(".Old-school").click(function(){
+  $("#1").toggle();
+  $("#3").toggle();
+  $("#4").toggle();
+  $("#5").toggle();
+});
 /*****************************/
 
 /***   THIS IS THE CODE THAT WILL OPEN AND CLOSE THE PANELS INDIVIDUALLY  ***/
 
-$(".Old-school").click(function(){
-    $(this).next().toggle();
-    $("i", this).toggleClass("hide-right-arrow");
-    $("i", this).last().toggleClass("show-down-arrow");
-  });
+// $(".Old-school").click(function(){
+//     $(this).next().toggle();
+//     $("i", this).toggleClass("hide-right-arrow");
+//     $("i", this).last().toggleClass("show-down-arrow");
+//   });
 /*****************************/
 
 
