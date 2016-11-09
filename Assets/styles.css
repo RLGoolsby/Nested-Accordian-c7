@@ -47,7 +47,7 @@ body{
   margin: 0 0 0.3em;
 	padding: 1em 0 0.5em;
   color: #47a3da;
-	border-bottom: 1px solid #ddd;
+	border-bottom: 1px solid #E0FFFF;
 	font-size: 3.5em;
 	font-weight: 300;
   font-style: normal;
@@ -92,7 +92,7 @@ h1:hover>i{
 }*/
 
 p{
-  color: black;
+  color: #E0FFFF;
 	font-size: 1.25em;
 	font-weight: 300;
 	line-height: 1.5;
@@ -132,7 +132,7 @@ li{
   font-weight: normal;
   font-variant: normal;
   line-height: 1;
-  color: black;
+  color: #E0FFFF;
   padding-right: 10px;
 }
 
