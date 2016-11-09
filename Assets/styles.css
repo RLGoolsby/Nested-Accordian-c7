@@ -74,7 +74,7 @@ h1:hover>i{
 
 .fa{
   padding-right: 10px;
-  color: #C9DCDF;
+  color: #343536;
 }
 
 /*.fa-fa-arrow-down{
@@ -92,7 +92,7 @@ h1:hover>i{
 }*/
 
 p{
-  color: #888;
+  color: #343536;
 	font-size: 1.25em;
 	font-weight: 300;
 	line-height: 1.5;
